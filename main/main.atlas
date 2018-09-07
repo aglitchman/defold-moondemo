@@ -1,0 +1,658 @@
+images {
+  image: "/builtins/graphics/particle_blob.png"
+}
+animations {
+  id: "moon"
+  images {
+    image: "/assets/images/moon/moon.0000.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0001.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0002.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0003.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0004.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0005.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0006.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0007.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0008.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0009.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0010.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0011.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0012.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0013.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0014.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0015.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0016.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0017.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0018.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0019.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0020.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0021.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0022.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0023.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0024.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0025.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0026.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0027.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0028.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0029.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0030.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0031.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0032.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0033.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0034.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0035.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0036.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0037.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0038.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0039.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0040.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0041.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0042.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0043.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0044.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0045.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0046.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0047.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0048.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0049.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0050.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0051.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0052.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0053.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0054.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0055.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0056.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0057.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0058.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0059.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0060.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0061.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0062.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0063.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0064.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0065.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0066.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0067.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0068.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0069.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0070.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0071.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0072.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0073.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0074.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0075.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0076.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0077.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0078.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0079.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0080.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0081.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0082.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0083.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0084.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0085.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0086.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0087.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0088.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0089.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0090.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0091.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0092.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0093.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0094.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0095.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0096.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0097.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0098.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0099.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0100.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0101.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0102.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0103.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0104.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0105.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0106.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0107.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0108.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0109.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0110.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0111.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0112.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0113.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0114.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0115.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0116.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0117.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0118.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0119.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0120.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0121.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0122.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0123.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0124.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0125.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0126.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0127.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0128.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0129.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0130.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0131.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0132.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0133.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0134.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0135.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0136.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0137.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0138.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0139.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0140.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0141.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0142.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0143.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0144.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0145.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0146.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0147.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0148.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0149.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0150.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0151.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0152.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0153.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0154.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0155.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0156.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0157.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0158.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0159.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0160.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0161.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0162.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0163.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0164.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0165.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0166.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0167.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0168.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0169.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0170.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0171.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0172.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0173.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0174.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0175.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0176.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0177.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0178.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0179.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0180.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0181.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0182.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0183.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0184.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0185.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0186.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0187.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0188.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0189.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0190.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0191.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0192.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0193.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0194.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0195.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0196.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0197.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0198.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0199.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0200.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0201.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0202.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0203.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0204.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0205.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0206.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0207.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0208.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0209.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0210.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0211.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0212.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0213.png"
+  }
+  images {
+    image: "/assets/images/moon/moon.0214.png"
+  }
+  playback: PLAYBACK_LOOP_FORWARD
+  fps: 33
+  flip_horizontal: 0
+  flip_vertical: 0
+}
+margin: 0
+extrude_borders: 2
+inner_padding: 0
