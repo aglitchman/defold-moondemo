@@ -1,3 +1,3 @@
 # Moon Demo
 
-🌐 [https://programmerby.github.io/defold-moondemo/](https://programmerby.github.io/defold-moondemo/)
+🌐 [https://aglitchman.github.io/defold-moondemo/](https://aglitchman.github.io/defold-moondemo/)
